@@ -4,7 +4,7 @@ export function asyncFetch(entity, jsonHandler) {
             dispatch({type: "NETWORK_ON"});
             fetch(`http://localhost:1337/apps.danielpecos.com/bookshelf/${entity}.json`, { 
                 headers: {
-                    'Authorization':'Basic XXX'
+                    'Authorization':'Basic ZGFuaTpvd2FqaXRzdTM4'
                 }
             })
             .then(response => response.json())
