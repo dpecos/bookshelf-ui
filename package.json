@@ -9,7 +9,6 @@
     "auth0-lock": "^10.11.0",
     "bootstrap": "^3.3.7",
     "react": "^15.4.1",
-    "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.1",
     "react-redux": "^4.4.6",
     "react-router": "^3.0.2",
